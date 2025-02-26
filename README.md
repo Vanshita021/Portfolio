@@ -1,6 +1,7 @@
 # 🚀 Vanshita Pradhan - Developer Portfolio  
 
 ![Portfolio Screenshot](https://github.com/Vanshita021/Portfolio/blob/main/Screenshot%202025-02-26%20130558.jpg)
+![Portfolio Screenshot](https://github.com/Vanshita021/Portfolio/blob/main/Screenshot%202025-02-26%20130614.jpg)
 
 Welcome to my personal portfolio repository! This project showcases my **skills, experience, and projects** as a **Web Developer & AI Enthusiast**.  
 
